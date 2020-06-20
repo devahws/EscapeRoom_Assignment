@@ -1,4 +1,3 @@
-// 산업보안학과 20155758 이우성
 
 Function.prototype.member = function(name, value){
 	this.prototype[name] = value
